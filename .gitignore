@@ -1,0 +1,2 @@
+# Exclude VIM temporary files
+*.swp
