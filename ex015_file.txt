@@ -1,0 +1,3 @@
+This is file,
+And it is full of plain text.
+You see?
