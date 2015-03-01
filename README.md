@@ -12,4 +12,11 @@ To load .vimrc from VIM use:
 :so ./.vimrc
 ```
 
+To start GNU screen type:
+
+```bash
+screen -c .screenrc
+```
+
+
 [1]: http://learnpythonthehardway.org/
