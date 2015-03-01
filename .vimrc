@@ -12,9 +12,9 @@ set ts=2
 " show line numbers
 set number
 " use spaces in case of TAB
-" set expandtab
+set expandtab
 " set TAB size in spaces
-" set softtabstop=2
+set softtabstop=2
 " indentation size
 set shiftwidth=2
 
