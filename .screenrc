@@ -1,3 +1,18 @@
 # Turn off startup message
 startup_message off
 
+# 256 colors
+term screen-256color
+
+# switch region with mouse
+mousetrack on
+
+# windows:
+screen -t bash0 bash
+split
+focus down
+screen -t bash1 bash
+focus up
+
+# select 0
+

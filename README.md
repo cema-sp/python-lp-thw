@@ -6,10 +6,16 @@ To run any eample use:
 python ex.py
 ```
 
+To load vim with .vimrc:
+
+```bash
+vim -u .vimrc
+```
+
 To load .vimrc from VIM use:  
 
 ```
-:so ./.vimrc
+:so .vimrc
 ```
 
 To start GNU screen type:
