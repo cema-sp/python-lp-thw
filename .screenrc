@@ -8,7 +8,7 @@ term screen-256color
 mousetrack on
 
 # windows:
-screen -t bash0 bash
+screen -t vim0 vim
 split
 focus down
 screen -t bash1 bash
