@@ -3,13 +3,13 @@
 To run any eample use:  
 
 ```bash
-python ex.py
+python ex0NN.py
 ```
 
-To load vim with .vimrc:
+To source .vimrc after vim initialization:
 
 ```bash
-vim -u .vimrc
+vim -S .vimrc
 ```
 
 To load .vimrc from VIM use:  
@@ -18,7 +18,7 @@ To load .vimrc from VIM use:
 :so .vimrc
 ```
 
-To start GNU screen type:
+To start GNU screen use:
 
 ```bash
 screen -c .screenrc
@@ -26,3 +26,4 @@ screen -c .screenrc
 
 
 [1]: http://learnpythonthehardway.org/
+
